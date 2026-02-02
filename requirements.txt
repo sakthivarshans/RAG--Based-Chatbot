@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-pinecone
+langgraph
+pinecone-client
+streamlit
+python-dotenv
+pypdf
+faiss-cpu

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Project Data & Artifacts
+data/
+faiss_index/
+
+# Temporary / Debug files
+debug_models.py
+debug_models_v2.py
+models.txt
+models_list.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
