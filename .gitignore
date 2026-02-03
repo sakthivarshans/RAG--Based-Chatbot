@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -15,7 +14,6 @@ ENV/
 .idea/
 
 # Project Data & Artifacts
-data/
 faiss_index/
 
 # Temporary / Debug files
